@@ -181,12 +181,12 @@ Linking to a PDF for readers to download:
 
    Linux, Mac:
    ```
-   docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:4.2.0 jekyll serve
+   docker run --volume="$PWD:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:4.2.0 jekyll serve --incremental
    ```
    
    Windows:
    ```
-   docker run --volume="%cd%:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:4.2.0 jekyll serve
+   docker run --volume="%cd%:/srv/jekyll" -p 4000:4000 -it jekyll/jekyll:4.2.0 jekyll serve --incremental
    ```
 
    Now browse to [http://localhost:4000](http://localhost:4000)

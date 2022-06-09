@@ -1,0 +1,3661 @@
+[
+    {
+        "name": "20-sim",
+        "license": "commercial",
+        "url": "https://www.20sim.com/",
+        "vendor": "Controllab Products",
+        "vendorURL": "https://www.20sim.com/",
+        "description": "Modeling and simulation program for mechatronic systems and control",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "@Source",
+        "license": "commercial",
+        "url": "https://podiumtechnology.co.uk/atsource-targets.htm#Modelisar",
+        "vendor": "Podium Technology",
+        "vendorURL": "https://podiumtechnology.co.uk/",
+        "description": "Simulink via @Source",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "NeurEco",
+        "license": "commercial",
+        "url": "https://www.adagos.com/neureco",
+        "vendor": "ADAGOS",
+        "vendorURL": "https://www.adagos.com/neureco",
+        "description": "Automatic parsimonious neural network factory",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Adams",
+        "license": "commercial",
+        "url": "https://www.mscsoftware.com/Products/CAE-Tools/Adams.aspx",
+        "vendor": "MSC Software",
+        "vendorURL": "https://www.mscsoftware.com/",
+        "description": "High end multibody dynamics simulation software from MSC Software",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "MSC.svg"
+    },
+    {
+        "name": "ADEPT Framework",
+        "license": "commercial",
+        "url": "https://www.adi.com/products/adept-framework/",
+        "vendor": "ADI",
+        "vendorURL": "https://www.adi.com/products/adept-framework/",
+        "description": "Industrial data and control software platform built around the concept of a data framework that links real-time Linux servers as a distributed resource and provides desktop client control of the time-deterministic computing and data handling capability",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "Dynamics",
+        "license": "commercial",
+        "url": "https://www.algoryx.se/products/agx-dynamics",
+        "vendor": "AGX",
+        "vendorURL": "https://www.algoryx.se/products/agx-dynamics",
+        "description": "AGX Dynamics is a professional multi-purpose physics engine for simulators, engineering, large scale granular simulators and more",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Activate",
+        "license": "commercial",
+        "url": "https://solidthinking.com/product/activate",
+        "vendor": "Altair",
+        "vendorURL": "https://www.altair.com/",
+        "description": "Software environment for modeling, simulation and analysis of multi-disciplinary systems from Altair",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Altair.svg"
+    },
+    {
+        "name": "MotionSolve",
+        "license": "commercial",
+        "url": "https://www.altair.com/motionsolve/",
+        "vendor": "Altair",
+        "vendorURL": "https://www.altair.com/",
+        "description": "MotionSolve is a solver that performs 3D multi-body system simulations to predict the dynamic response and optimize the performance of products that move.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Altair.svg"
+    },
+    {
+        "name": "MotionView",
+        "license": "commercial",
+        "url": "https://www.altair.com/motionsolve/motionview/",
+        "vendor": "Altair",
+        "vendorURL": "https://www.altair.com/",
+        "description": "MotionView is a graphical environment for building multibody system models and for visualizing motion simulation results using animations and plots.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Altair.svg"
+    },
+    {
+        "name": "CFX",
+        "license": "commercial",
+        "url": "https://www.ansys.com/products/fluids/ansys-cfx",
+        "vendor": "Ansys",
+        "vendorURL": "https://www.ansys.com/",
+        "description": "ANSYS CFX is a general purpose CFD package with advanced turbomachinery capabilities",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Ansys.svg"
+    },
+    {
+        "name": "DesignXplorer",
+        "license": "commercial",
+        "url": "https://www.ansys.com/Products/Platform/ANSYS-DesignXplorer",
+        "vendor": "Ansys",
+        "vendorURL": "https://www.ansys.com/",
+        "description": "DesignXplorer is able to export a computed response surface as an FMU",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Ansys.svg"
+    },
+    {
+        "name": "SCADE Display",
+        "license": "commercial",
+        "url": "https://www.ansys.com/products/embedded-software/ansys-scade-display",
+        "vendor": "Ansys",
+        "vendorURL": "https://www.ansys.com/",
+        "description": "SCADE Display facilitates embedded graphics, display and HMI development and certified code generation for safety-critical displays from ANSYS",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Ansys.svg"
+    },
+    {
+        "name": "SCADE Suite",
+        "license": "commercial",
+        "url": "https://www.ansys.com/products/embedded-software/ansys-scade-suite",
+        "vendor": "Ansys",
+        "vendorURL": "https://www.ansys.com/",
+        "description": "SCADE Suite is a model-based development environment with certified code generation for safety critical embedded applications from ANSYS",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Ansys.svg"
+    },
+    {
+        "name": "Twin Builder",
+        "license": "commercial",
+        "url": "https://www.ansys.com/products/digital-twin/ansys-twin-builder",
+        "vendor": "Ansys",
+        "vendorURL": "https://www.ansys.com/",
+        "description": "Ansys Twin Builder enables you to quickly create a digital twin\u2013a connected replica of an in-service asset.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Ansys.svg"
+    },
+    {
+        "name": "AutoFOCUS3",
+        "license": "osi",
+        "url": "https://www.fortiss.org/en/results/software/autofocus-3",
+        "vendor": "fortiss",
+        "vendorURL": "https://www.fortiss.org/en/",
+        "description": "AutoFOCUS3 is a model-based tool and research platform for the design, development and validation of safety-critical embedded systems developed at fortiss",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "AUTOSAR Builder",
+        "license": "commercial",
+        "url": "https://www.3ds.com/products-services/catia/products/autosarbuilder/",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "AUTOSAR product from Dassault Syst\u00e8mes",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "3DS.svg"
+    },
+    {
+        "name": "CRUISE",
+        "license": "commercial",
+        "url": "https://www.avl.com/cruise",
+        "vendor": "AVL",
+        "vendorURL": "https://avl.com/",
+        "description": "Vehicle system analysis tool for the optimization of fuel efficiency, emission, performance and driveability, from office to HiL to testbed.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "AVL.svg"
+    },
+    {
+        "name": "CRUISE M",
+        "license": "commercial",
+        "url": "https://www.avl.com/cruise-m",
+        "vendor": "AVL",
+        "vendorURL": "https://avl.com/",
+        "description": "AVL CRUISE\u2122 M is a realtime, multi-disciplinary, vehicle system simulation software used in office environments for the design of powertrains and thermal management systems, in HiL environments for control function development and calibration, and in testbed environments to provide simulation models for component testing",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "AVL.svg"
+    },
+    {
+        "name": "Model.CONNECT",
+        "license": "commercial",
+        "url": "https://www.avl.com/model.connect",
+        "vendor": "AVL",
+        "vendorURL": "https://avl.com/",
+        "description": "AVL\u2019s open model integration and co-simulation platform, connecting virtual and real components into one functional prototype",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "AVL.svg"
+    },
+    {
+        "name": "exothermia suite",
+        "license": "commercial",
+        "url": "http://www.exothermia.com/exhaust-overview",
+        "vendor": "Exothermia",
+        "vendorURL": "http://exothermia.com/",
+        "description": "Simulation of exhaust aftertreatment systems from Exothermia",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Automation Studio",
+        "license": "commercial",
+        "url": "https://www.br-automation.com/en/",
+        "vendor": "B&R",
+        "vendorURL": "https://www.br-automation.com/en/",
+        "description": "B&Rs Automation Studio is a software engineering platform for industrial automation targetting PLCs, industrial PCs, HMI and embedded controllers from B&R",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "BEAST",
+        "license": "commercial",
+        "url": "https://www.skf.com",
+        "vendor": "SKF",
+        "vendorURL": "https://www.skf.com/",
+        "description": "BEAST is an advanced dynamic simulation tool for rolling bearings and other mechanical systems with contacts available through SKF Engineering Consultancy Services. BEAST analyzes what will happen under real conditions and predicts the behaviour of complex equipment that incorporates rolling bearings.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "TwinCAT",
+        "license": "commercial",
+        "url": "https://www.beckhoff.com/en-en/products/automation/twincat/",
+        "vendor": "Beckhoff",
+        "vendorURL": "https://www.beckhoff.com/en-en/products/automation/twincat/",
+        "description": "The TwinCAT software system turns almost any PC-based system into a real-time control with multiple PLC, NC, CNC and/or robotics runtime systems.",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "Controls Virtual Test Bed",
+        "license": "commercial",
+        "url": "https://simulationresearch.lbl.gov/bcvtb/",
+        "vendor": "Building",
+        "vendorURL": "https://simulationresearch.lbl.gov/bcvtb/",
+        "description": "BCVTB is a Software environment, based on Ptolemy II, for co-simulation of, and data exchange with, building energy and control systems",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "Cameo Systems Modeler",
+        "license": "commercial",
+        "url": "https://www.3ds.com/products-services/catia/products/no-magic/cameo-systems-modeler/",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "FMUs can be imported, represented, connected and co-simulated in SysML models",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "3DS.svg"
+    },
+    {
+        "name": "CANoe",
+        "license": "commercial",
+        "url": "https://www.vector.com/int/en/products/products-a-z/software/canoe/",
+        "vendor": "Vector",
+        "vendorURL": "https://www.vector.com/",
+        "description": "CANoe is the comprehensive software tool for development, test and analysis of entire ECU networks and individual ECUs",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Vector.svg"
+    },
+    {
+        "name": "CarMaker",
+        "license": "commercial",
+        "url": "https://www.ipg.de/index.php?id=carmaker",
+        "vendor": "IPG Automotive",
+        "vendorURL": "https://ipg-automotive.com/",
+        "description": "CarMaker is an open test- and integration-platform for MiL, SiL and HiL",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "IPG.jpeg"
+    },
+    {
+        "name": "CarSim",
+        "license": "commercial",
+        "url": "https://www.carsim.com/",
+        "vendor": "Mechanical Simulation",
+        "vendorURL": "https://www.carsim.com/",
+        "description": "CarSim, TruckSim, and BikeSim are vehicle dynamics software solutions from Mechanical Simulation that support XiL development workflows and power real-time driving simulators around the globe",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "CATIA",
+        "license": "commercial",
+        "url": "https://www.3ds.com/products-services/catia/",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "Environment for Product Design and Innovation, including systems engineering tools based on Modelica, by Dassault Syst&egrave;mes",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "3DS.svg"
+    },
+    {
+        "name": "ControlBuild",
+        "license": "commercial",
+        "url": "https://www.3ds.com/products-services/catia/products/controlbuild/",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "Environment for IEC 61131-3 control applications from Dassault Syst\u00e8mes",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "3DS.svg"
+    },
+    {
+        "name": "CosiMate",
+        "license": "commercial",
+        "url": "https://www.cosimate.com/",
+        "vendor": "ChiasTek",
+        "vendorURL": "https://www.chiastek.com/",
+        "description": "Co-simulation Environment from ChiasTek",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "CoTherm",
+        "license": "commercial",
+        "url": "https://www.thermoanalytics.com/cotherm",
+        "vendor": "ThermoAnalytics",
+        "vendorURL": "https://www.thermoanalytics.com/",
+        "description": "Co-simulation software for coupling thermal, CFD, FEA, and 1D tools",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "CPPFMU",
+        "license": "commercial",
+        "url": "https://github.com/viproma/cppfmu",
+        "vendor": "ViProMa",
+        "vendorURL": "https://viproma.no/",
+        "description": "Interfaces and helper functions for writing FMI-compliant model/slave code in C++",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "CENIT",
+        "license": "commercial",
+        "url": "https://cenit.cybernetica.no",
+        "vendor": "Cybernetica",
+        "vendorURL": "https://cenit.cybernetica.no",
+        "description": "Industrial product for nonlinear Model Predictive Control (NMPC) from Cybernetica",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ]
+    },
+    {
+        "name": "ModelFit",
+        "license": "commercial",
+        "url": "https://modelfit.cybernetica.no",
+        "vendor": "Cybernetica",
+        "vendorURL": "https://modelfit.cybernetica.no",
+        "description": "Software for model verification, state and parameter estimation, using logged process data. By Cybernetica",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "DACCOSIM",
+        "license": "osi",
+        "url": "https://bitbucket.org/simulage/daccosim",
+        "vendor": "DACCOSIM",
+        "vendorURL": "https://bitbucket.org/simulage/daccosim",
+        "description": "Master Algorithm generator & deployer from RISEGrid for a multi-OS, multi-threaded and distributed cosimulation implementing all the FMI 2.0 features",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "DAE Tools",
+        "license": "commercial",
+        "url": "https://www.daetools.com",
+        "vendor": "DAE Tools",
+        "vendorURL": "https://www.daetools.com",
+        "description": "",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Motion",
+        "license": "commercial",
+        "url": "https://www.ansys.com/ko-kr/products/structures/ansys-motion",
+        "vendor": "Ansys",
+        "vendorURL": "https://www.ansys.com/",
+        "description": "Intergrated structure and motion analysis software from VirtualMotion",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Ansys.svg"
+    },
+    {
+        "name": "PowerFactory",
+        "license": "commercial",
+        "url": "https://www.digsilent.de/en/",
+        "vendor": "DIgSILENT",
+        "vendorURL": "https://www.digsilent.de/en/",
+        "description": "PowerFactory is a power system analysis software application used for analysing generation, transmission, distribution and industrial systems",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "FMI Kit for Simulink",
+        "license": "commercial",
+        "url": "https://github.com/CATIA-Systems/FMIKit-Simulink",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "FMI Kit for Simulink  provided by Dassault Syst&egrave;mes - Simulink block for import of FMUs into Simulink",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "3DS.svg"
+    },
+    {
+        "name": "MicroAutoBox III",
+        "license": "commercial",
+        "url": "https://www.dspace.com/go/fmi",
+        "vendor": "dSPACE",
+        "vendorURL": "https://www.dspace.com/go/fmi",
+        "description": "dSPACE MicroAutoBox III is a real-time simulation system for performing fast, in-vehicle function prototyping. Please also refer to the dSPACE FMI sites for more information about the FMI 1.0 and FMI 2.0 support.",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "dSPACE.svg"
+    },
+    {
+        "name": "SCALEXIO",
+        "license": "commercial",
+        "url": "https://www.dspace.com/go/fmi",
+        "vendor": "dSPACE",
+        "vendorURL": "https://www.dspace.com/go/fmi",
+        "description": "dSPACE SCALEXIO is a Hardware-in-the-Loop (HIL) integration and simulation platform from dSPACE. Please also refer to the dSPACE FMI sites for more information about the FMI 1.0 and FMI 2.0 support.",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "dSPACE.svg"
+    },
+    {
+        "name": "SYNECT",
+        "license": "commercial",
+        "url": "https://www.dspace.com/go/fmi",
+        "vendor": "dSPACE",
+        "vendorURL": "https://www.dspace.com/go/fmi",
+        "description": "dSPACE SYNECT is a data management tool from dSPACE that enables you to manage FMUs and Simulink models as well as their dependencies, versions and variants throughout the entire software development process. Please also refer to the dSPACE FMI sites for more information about the FMI support.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "dSPACE.svg"
+    },
+    {
+        "name": "SystemDesk",
+        "license": "commercial",
+        "url": "https://www.dspace.com/go/fmi",
+        "vendor": "dSPACE",
+        "vendorURL": "https://www.dspace.com/go/fmi",
+        "description": "SystemDesk is an environment for creating virtual ECUs for SIL simulation. Virtual ECUs can be on application level or they can contain up to the complete hardware-independent ECU software. Please also refer to the dSPACE FMI sites for more information about the FMI support.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "dSPACE.svg"
+    },
+    {
+        "name": "TargetLink",
+        "license": "commercial",
+        "url": "https://www.dspace.com/go/fmi",
+        "vendor": "dSPACE",
+        "vendorURL": "https://www.dspace.com/go/fmi",
+        "description": "TargetLink is a production code generator from dSPACE that generates highly efficient C-code directly from Simulink/Stateflow models. Please also refer to the dSPACE FMI sites for more information about the FMI support.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "dSPACE.svg"
+    },
+    {
+        "name": "VEOS",
+        "license": "commercial",
+        "url": "https://www.dspace.com/go/fmi",
+        "vendor": "dSPACE",
+        "vendorURL": "https://www.dspace.com/go/fmi",
+        "description": "dSPACE VEOS is a PC-based virtual integration and simulation platform from dSPACE. Please also refer to the dSPACE FMI sites for more information about the FMI 1.0 and FMI 2.0 support.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "dSPACE.svg"
+    },
+    {
+        "name": "Dymola",
+        "license": "commercial",
+        "url": "https://www.3ds.com/products-services/catia/capabilities/modelica-systems-simulation-info/dymola",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "Modelica environment from Dassault Syst\u00e8mes",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "version": "2023",
+        "logo": "Dymola.png"
+    },
+    {
+        "name": "DYNA4",
+        "license": "commercial",
+        "url": "https://www.vector.com/dyna4/",
+        "vendor": "Vector",
+        "vendorURL": "https://www.vector.com/",
+        "description": "DYNA4 by Vector is an open simulation environment for virtual test driving for function development in closed-loop system tests",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Vector.svg"
+    },
+    {
+        "name": "EAS-CoSiMa",
+        "license": "commercial",
+        "url": "https://www.eas.iis.fraunhofer.de/de/anwendungsfelder/mobilitaet/modelisar/cosima.html",
+        "vendor": "Fraunhofer IIS",
+        "vendorURL": "https://www.eas.iis.fraunhofer.de/",
+        "description": "EAS-CoSiMa by Fraunhofer IIS EAS is a vendor neutral interface for Co-Simulation of FMUs. It provides a range of Masteralgorithms for cycle handling, time step control algorithms and a graphical user interface.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "Easy FMI Add-on for Matlab/Simulink",
+        "license": "commercial",
+        "url": "https://powersys-solutions.com/product/?software=Easy%20FMI%20Add-On%20for%20MATLAB%2fSimulink",
+        "vendor": "Powersys Solutions",
+        "vendorURL": "https://powersys-solutions.com/",
+        "description": "FMI Module for Simulink to enable cosimulation as master or slave",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "Easy5",
+        "license": "commercial",
+        "url": "https://www.mscsoftware.com/product/easy5",
+        "vendor": "MSC Software",
+        "vendorURL": "https://www.mscsoftware.com/",
+        "description": "High performance simulation environment for multi-domain system dynamics from MSC Software",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "MSC.svg"
+    },
+    {
+        "name": "EcosimPro",
+        "license": "commercial",
+        "url": "https://www.ecosimpro.com/products/ecosimpro/",
+        "vendor": "EA Internacional",
+        "vendorURL": "https://www.empresariosagrupados.es/",
+        "description": "EcosimPro, System Modelling and Simulation Software",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "ECU-TEST",
+        "license": "commercial",
+        "url": "https://www.tracetronic.com/products/ecu-test/",
+        "vendor": "TraceTronic",
+        "vendorURL": "https://www.tracetronic.com/",
+        "description": "ECU-TEST is an intuitive test tool for creating test cases for automotive software in any development phase and for their automatic execution, supporting a variety of test execution or test process tools",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "TraceTronic.png"
+    },
+    {
+        "name": "EMTP",
+        "license": "commercial",
+        "url": "https://www.emtp-software.com",
+        "vendor": "EMTP Alliance",
+        "vendorURL": "https://www.emtp.com/",
+        "description": "EMTP-RV is a power system simulation tool. Version 3.4 or higher is required to use the FMI capabilities.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "EnergyPlus",
+        "license": "commercial",
+        "url": "https://simulationresearch.lbl.gov/fmu/EnergyPlus/export/index.html",
+        "vendor": "Berkeley Lab",
+        "vendorURL": "https://www.lbl.gov/",
+        "description": "Whole building energy simulation program",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "ASCET 6",
+        "license": "commercial",
+        "url": "",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "ASCET-DEVELOPER",
+        "license": "commercial",
+        "url": "https://www.etas.com/de/portfolio/ascet-developer.php",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "FMU Generator for ASCET from ETAS",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "ASCMO",
+        "license": "commercial",
+        "url": "https://www.etas.com/en/products/ascmo.php",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "Creation and export of statistical (meta) models using Design of Experiments (DoE) from ETAS",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "COSYM",
+        "license": "commercial",
+        "url": "https://www.etas.com/en/products/cosym-co-simulation-platform.php",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "Integration and simulation platform for Hardware-in-the-Loop (HiL) and Software-in-the-Loop (SiL)",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "INCA-FLOW (MiL/SiL Connector)",
+        "license": "commercial",
+        "url": "https://www.etas.com/en/products/inca_flow.php",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "Guided and automated calibration of FMUs with connection to ETAS INCA",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "ISOLAR-EVE (ETAS Virtual ECU)",
+        "license": "commercial",
+        "url": "https://www.etas.com/en/products/isolar_eve.php",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "PC based platform from ETAS for ECU software validation at the component, sub-system or system level; allows for validation of Application Software, Basis Software and complete ECU software in a virtual environment",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "LABCAR-OPERATOR",
+        "license": "commercial",
+        "url": "https://www.etas.com/en/products/labcar_operator.php",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "Frontend for ETAS HiL systems LABCAR, operating on the creation of experiments and their subsequent execution",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "SCODE-CONGRA",
+        "license": "commercial",
+        "url": "https://www.etas.com/de/products/scode-congra.php",
+        "vendor": "ETAS",
+        "vendorURL": "https://www.etas.com/",
+        "description": "provides an easy and fast modelling of (non-linear) DAEs for controllers and plant models, verification of the model for safety critical development and generates embedded ECU code",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "ETAS.svg"
+    },
+    {
+        "name": "Flownex",
+        "license": "commercial",
+        "url": "https://flownex.com/",
+        "vendor": "Flownex",
+        "vendorURL": "https://flownex.com/",
+        "description": "Flownex is a tool for steady state and dynamic simulation of fluid flow and heat transfer systems",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "DSHplus",
+        "license": "commercial",
+        "url": "https://www.fluidon.com",
+        "vendor": "FLUIDON",
+        "vendorURL": "https://www.fluidon.com",
+        "description": "Fluid power simulation software from FLUIDON",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "Virtual Engineering Lab",
+        "license": "commercial",
+        "url": "https://www.fluidon.com",
+        "vendor": "FLUIDON",
+        "vendorURL": "https://www.fluidon.com",
+        "description": "Software for automated simulation and virtual engineering using in-the-loop methods",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "FMI Add-in for Excel",
+        "license": "commercial",
+        "url": "https://www.modelon.com/products/fmi-add-in-for-excel/",
+        "vendor": "Modelon",
+        "vendorURL": "https://www.modelon.com/",
+        "description": "FMI Add-in for Microsoft Excel by \u200bModelon. Offers support for batch simulation of FMUs.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Modelon.png"
+    },
+    {
+        "name": "FMI add-on for NI VeriStand",
+        "license": "commercial",
+        "url": "https://www.dofware.com/img/FMI_Flyer.pdf",
+        "vendor": "DOFWARE",
+        "vendorURL": "https://www.dofware.com/",
+        "description": "NI VeriStand supports FMI through the use of the FMI add-on for NI VeriStand from Dofware",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "FMI Bench",
+        "license": "commercial",
+        "url": "https://pmsf.eu/products/fmibench/",
+        "vendor": "PMSF IT Consulting",
+        "vendorURL": "https://pmsf.eu/",
+        "description": "Workbench for inspection, customization and pre-integration of FMUs including parallelization and stand-alone simulation generation from PMSF",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "PMSF.png"
+    },
+    {
+        "name": "FMI Blockset for Simulink",
+        "license": "commercial",
+        "url": "https://www.claytex.com/products/fmi-blockset/",
+        "vendor": "Claytex",
+        "vendorURL": "https://www.claytex.com/",
+        "description": "The FMI Blockset for Simulink enables the import of FMUs for use in Simulink - developed by Claytex",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "FMI Composer",
+        "license": "commercial",
+        "url": "https://www.modelon.com/products-services/modelon-deployment-suite/fmi-composer/",
+        "vendor": "Modelon",
+        "vendorURL": "https://www.modelon.com/",
+        "description": "FMI Composer from Modelon is a software platform enabling users to build system models from multiple FMUs. FMI Composer is built entirely on the FMI and upcoming SSP standards.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Modelon.png"
+    },
+    {
+        "name": "FMI Library",
+        "license": "osi",
+        "url": "https://github.com/modelon-community/fmi-library",
+        "vendor": "Modelon",
+        "vendorURL": "https://www.modelon.com/",
+        "description": "Open source (BSD) C library for integration of FMI technology in custom applications by Modelon",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Modelon.png"
+    },
+    {
+        "name": "FMI Target for Simulink Coder",
+        "license": "commercial",
+        "url": "https://cdn.simulationx.de/en/pdf/FMI-Target-for-Simulink-Coder.pdf",
+        "vendor": "ESI Group",
+        "vendorURL": "https://www.esi-group.com/",
+        "description": "Export of stand-alone FMUs for Co-Simulation from Simulink using Simulink Coder - provided by ITI",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "ESI.svg"
+    },
+    {
+        "name": "FMI Toolbox for MATLAB/Simulink",
+        "license": "commercial",
+        "url": "https://www.modelon.com/products-services/modelon-deployment-suite/fmi-toolbox/",
+        "vendor": "Modelon",
+        "vendorURL": "https://www.modelon.com/",
+        "description": "The FMI Toolbox for MATLAB/Simulink from Modelon enables FMU import and export for MATLAB/Simulink for both model exchange and co-simulation",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Modelon.png"
+    },
+    {
+        "name": "FMI.jl",
+        "license": "osi",
+        "url": "https://github.com/ThummeTo/FMI.jl",
+        "vendor": "@ThummeTo",
+        "vendorURL": "https://github.com/ThummeTo/",
+        "description": "Load, parameterize, simulate and plot CS- and ME-FMUs (support for event-handling) in the Julia Programming Language",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "FMI4cpp",
+        "license": "osi",
+        "url": "https://github.com/NTNU-IHB/fmi4cpp",
+        "vendor": "NTNU",
+        "vendorURL": "https://www.ntnu.edu/ihb",
+        "description": "FMI 2.0 implementation written in modern C++",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "FMI4j",
+        "license": "osi",
+        "url": "https://github.com/NTNU-IHB/fmi4j",
+        "vendor": "NTNU",
+        "vendorURL": "https://www.ntnu.edu/ihb",
+        "description": "FMI4j is a software package for dealing with Functional Mockup Units (FMUs) on the JVM platform",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "FMPy",
+        "license": "osi",
+        "url": "https://github.com/CATIA-Systems/FMPy",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "A Python library to simulate FMUs",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "3DS.svg"
+    },
+    {
+        "name": "FMU-proxy",
+        "license": "osi",
+        "url": "https://github.com/NTNU-IHB/FMU-proxy",
+        "vendor": "NTNU",
+        "vendorURL": "https://www.ntnu.edu/ihb",
+        "description": "Tool that allows Functional Mock-up Units (FMUs) to be accessed through language independent RPC calls on any platform using gRPC, Apache Thrift and/or JSON-RPC",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "FMU SDK",
+        "license": "osi",
+        "url": "https://www.synopsys.com/verification/virtual-prototyping/virtual-ecu/fmu-sdk.html",
+        "vendor": "Synopsys",
+        "vendorURL": "https://www.synopsys.com/",
+        "description": "FMU Software Development Kit from Synopsys",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Synopsys.svg"
+    },
+    {
+        "name": "GCAir",
+        "license": "commercial",
+        "url": "http://www.globalcrown.com.cn/",
+        "vendor": "Global Crown",
+        "vendorURL": "http://www.globalcrown.com.cn/",
+        "description": "tool for Cosimulation  and real-time simulation",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "GCKontrol",
+        "license": "commercial",
+        "url": "http://www.globalcrown.com.cn/",
+        "vendor": "Global Crown",
+        "vendorURL": "http://www.globalcrown.com.cn/",
+        "description": "tool for modeling, code generation and simulation",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Energy Systems (GES)",
+        "license": "commercial",
+        "url": "https://www.tno.nl",
+        "vendor": "General",
+        "vendorURL": "https://www.tno.nl",
+        "description": "GES is an object oriented simulation tool, for dynamic and static (algebraic) systems, Based on a hybrid bondgraph model. The tool is mainly used for ship power designs. Provided by TNO",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ]
+    },
+    {
+        "name": "GT-SUITE",
+        "license": "commercial",
+        "url": "https://www.gtisoft.com/",
+        "vendor": "Gamma Technologies",
+        "vendorURL": "https://www.gtisoft.com/",
+        "description": "Multi-Physics Simulation Platform for Powertrain and Vehicle Systems",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "Hopsan",
+        "license": "osi",
+        "url": "https://github.com/Hopsan/hopsan",
+        "vendor": "LIU",
+        "vendorURL": "https://liu.se/en/research/hopsan",
+        "description": "Hopsan is a free simulation tool developed at Link\u00f6ping University. It is using distributed solver techniques with good support for parallelism using multi-core processors.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "Rational Rhapsody",
+        "license": "commercial",
+        "url": "https://www.ibm.com/us-en/marketplace/systems-design-rhapsody",
+        "vendor": "IBM",
+        "vendorURL": "https://www.ibm.com/us-en/marketplace/systems-design-rhapsody",
+        "description": "IBM&reg; Rational&reg; Rhapsody&reg; family provides a collaborative design, development and test environment for systems engineers and software engineers.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "IBM.svg"
+    },
+    {
+        "name": "Independent Co-Simulation",
+        "license": "commercial",
+        "url": "https://www.v2c2.at/icos/",
+        "vendor": "ICOS",
+        "vendorURL": "https://www.v2c2.at/icos/",
+        "description": "ICOS is a co-simulation tool developed by Virtual Vehicle",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "IGNITE",
+        "license": "commercial",
+        "url": "https://www.ricardo.com/en-GB/What-we-do/Software/Products/IGNITE/",
+        "vendor": "Ricardo",
+        "vendorURL": "https://ricardo.com/",
+        "description": "Physics-based system simulation software for complete vehicle system modeling and simulation from Ricardo Software",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Ricardo.svg"
+    },
+    {
+        "name": "InSystemLab",
+        "license": "commercial",
+        "url": "https://insystemlab.com",
+        "vendor": "E-Sim Solutions",
+        "vendorURL": "https://www.esims.tech/",
+        "description": "A collaborative co-simulation platform that promotes interoperability across multiple engineering domains",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "Co-simulation Orchestration Engine (COE)",
+        "license": "osi",
+        "url": "https://into-cps.org/",
+        "vendor": "INTO-CPS",
+        "vendorURL": "https://into-cps.org/",
+        "description": "An open-source and free standalone FMI co-simulation master implemented in Java with a JSON API. It is developed as part of the INTO-CPS project.",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "ISG-virtuos",
+        "license": "commercial",
+        "url": "https://www.isg-stuttgart.de/de/isg-virtuos",
+        "vendor": "ISG",
+        "vendorURL": "https://www.isg-stuttgart.de/",
+        "description": "Technology-specific simulation solutions are integrated into the digital twin which enables a comprehensive virtual commissioning of industrial control systems. Result: Illustration of interactions between process machine control system and user in a single integrated virtualization.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "JavaFMI",
+        "license": "commercial",
+        "url": "https://bitbucket.org/siani/javafmi/wiki/Home",
+        "vendor": "@siani",
+        "vendorURL": "https://bitbucket.org/siani/",
+        "description": "JavaFMI is a Java wrapper for the Functional Mock-up Interface (1.0 or 2.0) both for Windows/Linux 32 or 64 bit OS",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "JFMI",
+        "license": "commercial",
+        "url": "https://ptolemy.berkeley.edu/java/jfmi/",
+        "vendor": "The Ptolemy Project",
+        "vendorURL": "https://ptolemy.berkeley.edu/",
+        "description": "A Java Wrapper for the Functional Mock-up Interface, based on FMU SDK",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "KULI",
+        "license": "commercial",
+        "url": "https://kuli.magna.com",
+        "vendor": "Magna",
+        "vendorURL": "https://www.magna.com/",
+        "description": "KULI is a comprehensive tool for vehicle thermal management simulation",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Magna.svg"
+    },
+    {
+        "name": "Virtual.Lab Motion",
+        "license": "commercial",
+        "url": "https://www.plm.automation.siemens.com/de/products/",
+        "vendor": "LMS",
+        "vendorURL": "https://www.plm.automation.siemens.com/de/products/",
+        "description": "Virtual.Lab Motion is a high end multi body software from LMS International",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "LS-DYNA",
+        "license": "commercial",
+        "url": "http://www.lstc.com/",
+        "vendor": "LST",
+        "vendorURL": "http://www.lstc.com/",
+        "description": "LS-DYNA is a general-purpose finite element program that is used in the automotive, aerospace, construction and manufacturing industries",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "MapleSim",
+        "license": "commercial",
+        "url": "https://www.maplesoft.com/products/maplesim/modelica.aspx",
+        "vendor": "Maplesoft",
+        "vendorURL": "https://www.maplesoft.com/",
+        "description": "Modelica-based modeling and simulation tool from Maplesoft",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ],
+        "logo": "Maplesoft.svg"
+    },
+    {
+        "name": "MasterSim",
+        "license": "osi",
+        "url": "https://bauklimatik-dresden.de/mastersim",
+        "vendor": "Bauklimatik Dresden Software",
+        "vendorURL": "https://bauklimatik-dresden.de/",
+        "description": "OpenSource FMI Co-Simulation master and programming library",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "MATLAB\u00ae Simulink\u00ae",
+        "license": "commercial",
+        "url": "https://www.mathworks.com/solutions/system-design-simulation.html",
+        "vendor": "MathWorks",
+        "vendorURL": "https://www.mathworks.com/",
+        "description": "Simulink\u00ae is a block diagram environment for multidomain simulation and Model-Based Design. It supports system-level design, simulation, automatic code generation, and continuous test and verification of embedded systems.",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "MathWorks.svg"
+    },
+    {
+        "name": "MESSINA",
+        "license": "commercial",
+        "url": "https://products.expleogroup.com/messina/",
+        "vendor": "Expleo",
+        "vendorURL": "https://expleo.com/",
+        "description": "MESSINA is a test platform for model-based ECU function development.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "CAPE",
+        "license": "commercial",
+        "url": "https://www.micronova.de/testing/novacarts-hil-simulation/hil-simulatoren/novacarts-fuel-cell.html",
+        "vendor": "MicroNova",
+        "vendorURL": "https://www.micronova.de/testing/novacarts-hil-simulation/hil-simulatoren/novacarts-fuel-cell.html",
+        "description": "CAPE (NovaCarts Application Programming Environment) is a tool to generate simulation programs for the NovaCarts realtime Hardware-in-the-Loop systems by MicroNova",
+        "features": [],
+        "platforms": [
+            "Linux"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "NovaCarts",
+        "license": "commercial",
+        "url": "https://www.micronova.de/testing/novacarts-hil-simulation/software.html",
+        "vendor": "MicroNova",
+        "vendorURL": "https://www.micronova.de/testing/novacarts-hil-simulation/software.html",
+        "description": "NovaCarts is the comprehensive software package that includes the real-time software for running real-time simulations on the simulation nodes and the Test Operation, the user software to configure and control the real-time hardware-in-the-loop systems created by MicroNova",
+        "features": [],
+        "platforms": [
+            "Linux"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "MoBA Automation",
+        "license": "commercial",
+        "url": "https://www.tlk-thermo.com/index.php/en/moba-automation",
+        "vendor": "TLK-Thermo",
+        "vendorURL": "https://www.tlk-thermo.com/",
+        "description": "MoBA Lab gives the user a wide-ranging portfolio of different tools for the model-based development process of thermal and other types of systems. The MoBA Simulator is available for Excel, Python, C++, and various other environments.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "TLK-Thermo.svg"
+    },
+    {
+        "name": "modeFRONTIER",
+        "license": "commercial",
+        "url": "https://www.esteco.com/modefrontier",
+        "vendor": "ESTECO",
+        "vendorURL": "https://www.esteco.com/",
+        "description": "modeFRONTIER is a comprehensive solution for process automation and optimization in the engineering design process",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Impact",
+        "license": "commercial",
+        "url": "https://www.modelon.com/modelon-impact/",
+        "vendor": "Modelon",
+        "vendorURL": "https://www.modelon.com/modelon-impact/",
+        "description": "Modelon Impact is a radically different system design engineering simulation software. Bring the power of decision making to everyone in your organization",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Modelon.png"
+    },
+    {
+        "name": "MWorks",
+        "license": "commercial",
+        "url": "https://www.tongyuan.cc/",
+        "vendor": "Tongyuan",
+        "vendorURL": "https://www.tongyuan.cc/",
+        "description": "Modelica environment from Suzhou Tongyuan",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "NANDRAD",
+        "license": "osi",
+        "url": "https://bauklimatik-dresden.de/nandrad",
+        "vendor": "Bauklimatik Dresden Software",
+        "vendorURL": "https://bauklimatik-dresden.de/",
+        "description": "Building and district energy simulation solver",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "OMSimulator",
+        "license": "osi",
+        "url": "https://github.com/OpenModelica/OMSimulator",
+        "vendor": "OpenModelica",
+        "vendorURL": "https://openmodelica.org/",
+        "description": "The OMSimulator project is a FMI-based co-simulation environment that supports ordinary (i.e., non-delayed) and TLM connections",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "OpenModelica.png"
+    },
+    {
+        "name": "Open Simulation Platform",
+        "license": "osi",
+        "url": "https://open-simulation-platform.github.io/",
+        "vendor": "Open Simulation Platform",
+        "vendorURL": "https://open-simulation-platform.github.io/",
+        "description": "Tools, libraries and interfaces for co-simulation of multiphysical and cyberphysical systems",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "OpenModelica",
+        "license": "osi",
+        "url": "https://openmodelica.org",
+        "vendor": "OpenModelica",
+        "vendorURL": "https://openmodelica.org/",
+        "description": "Open source Modelica environment from OSMC",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ],
+        "logo": "OpenModelica.png"
+    },
+    {
+        "name": "OPTIMICA Compiler Toolkit",
+        "license": "commercial",
+        "url": "https://www.modelon.com/products-services/modelon-creator-suite/optimica-compiler-toolkit/",
+        "vendor": "Modelon",
+        "vendorURL": "https://www.modelon.com/",
+        "description": "Modelica-based mathematical engine that offers solution for the automation, simulation and optimization of system behaviors throughout the model-based design cycle",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Modelon.png"
+    },
+    {
+        "name": "optiSLang",
+        "license": "commercial",
+        "url": "https://www.ansys.com/products/connect/ansys-optislang",
+        "vendor": "Ansys",
+        "vendorURL": "https://www.ansys.com/",
+        "description": "optiSLang supports the export of Metamodels of optimal Prognosis (MOP) as FMU",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Ansys.svg"
+    },
+    {
+        "name": "Overture",
+        "license": "commercial",
+        "url": "https://overturetool.org/",
+        "vendor": "The Overture Project",
+        "vendorURL": "https://overturetool.org/",
+        "description": "Modelling tool for the Vienna Development Method with supports for export of tool wrapper and source code FMUs",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "pandapower-FMU",
+        "license": "osi",
+        "url": "",
+        "vendor": "@Adrien.Gougeon",
+        "vendorURL": "https://framagit.org/Adrien.Gougeon",
+        "description": "open source tool for power system modeling",
+        "features": [],
+        "platforms": [
+            "Linux"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Persalys",
+        "license": "osi",
+        "url": "https://persalys.fr",
+        "vendor": "Persalys",
+        "vendorURL": "https://persalys.fr",
+        "description": "Uncertainty treatment GUI",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "PLECS",
+        "license": "commercial",
+        "url": "https://www.plexim.com",
+        "vendor": "Plexim",
+        "vendorURL": "https://www.plexim.com",
+        "description": "Simulation platform for power electronic systems",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ]
+    },
+    {
+        "name": "PragmaDev Studio",
+        "license": "commercial",
+        "url": "http://www.pragmadev.com/",
+        "vendor": "PragmaDev",
+        "vendorURL": "http://www.pragmadev.com/",
+        "description": "Modeling and testing tools for communicating systems",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "PROOSIS",
+        "license": "commercial",
+        "url": "https://www.ecosimpro.com/products/proosis/",
+        "vendor": "EA Internacional",
+        "vendorURL": "https://www.empresariosagrupados.es/",
+        "description": "PROOSIS, Propulsion Object-Oriented Simulation Software",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "PROVEtech:RE",
+        "license": "commercial",
+        "url": "https://www.provetech.de/index.php/products/provetech-re",
+        "vendor": "PROVEtech",
+        "vendorURL": "https://www.provetech.de/",
+        "description": "Test platform for ECU verification in the entire product development",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "pSeven",
+        "license": "commercial",
+        "url": "https://www.datadvance.net/product/pseven/",
+        "vendor": "DATADVANCE",
+        "vendorURL": "https://www.datadvance.net/",
+        "description": "pSeven is a software platform that provides advanced tools for Design Optimization and Predictive Modeling, packaged in an easy-to-use graphical user interface.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ]
+    },
+    {
+        "name": "PSIM",
+        "license": "commercial",
+        "url": "https://powersimtech.com/products/psim/psim-modules/fmi-module/",
+        "vendor": "Powersim",
+        "vendorURL": "https://powersimtech.com/",
+        "description": "Simulation software for power electronics and motor drive control system",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "PyFMI",
+        "license": "osi",
+        "url": "https://pypi.python.org/pypi/PyFMI/",
+        "vendor": "Modelon",
+        "vendorURL": "https://www.modelon.com/",
+        "description": "For Python via the open source package PyFMI from Modelon. Also available as part of the JModelica.org platform.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Modelon.png"
+    },
+    {
+        "name": "PySimulator",
+        "license": "osi",
+        "url": "https://github.com/PySimulator/PySimulator/",
+        "vendor": "@PySimulator",
+        "vendorURL": "https://github.com/PySimulator/",
+        "description": "Simulation and Analysis Environment in Python with Plugin Infrastructure",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ]
+    },
+    {
+        "name": "PythonFMU",
+        "license": "osi",
+        "url": "https://github.com/NTNU-IHB/PythonFMU/",
+        "vendor": "NTNU",
+        "vendorURL": "https://www.ntnu.edu/ihb",
+        "description": "A Python tool coupling solution that allows Python code to be exported as co-simulation FMUs",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "RecurDyn",
+        "license": "commercial",
+        "url": "https://eng.functionbay.co.kr",
+        "vendor": "FunctionBay",
+        "vendorURL": "https://functionbay.com/",
+        "description": "High End Multi Flexible Body Dynamics Software from FunctionBay",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "RTMaps",
+        "license": "commercial",
+        "url": "https://intempora.com/products/rtmaps/",
+        "vendor": "Intempora",
+        "vendorURL": "https://intempora.com/",
+        "description": "Component-based software development and execution environment which enables users to time-stamp record synchronize and play back data from various sensors and vehicle buses",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "SaberEXP",
+        "license": "commercial",
+        "url": "https://www.synopsys.com/verification/virtual-prototyping/saber.html#saberexp",
+        "vendor": "Synopsys",
+        "vendorURL": "https://www.synopsys.com/",
+        "description": "SaberEXP is a piecewise linear (PWL) circuit simulator that enables design teams to start early and validate their power supply/converter and motor drive designs prior to physical implementation with its fast simulation convergence. It provides a scalable simulation solution for accelerating power electronics designs with its seamless export flow into SaberRD for high fidelity large system design",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Synopsys.svg"
+    },
+    {
+        "name": "SaberRD",
+        "license": "commercial",
+        "url": "https://www.synopsys.com/verification/virtual-prototyping/saber.html#saberrd1",
+        "vendor": "Synopsys",
+        "vendorURL": "https://www.synopsys.com/",
+        "description": "SaberRD is an intuitive, integrated environment for designing and analyzing power electronic systems and multi-domain physical systems",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Synopsys.svg"
+    },
+    {
+        "name": "SCANeR Studio",
+        "license": "commercial",
+        "url": "https://www.avsimulation.fr",
+        "vendor": "AVSimulation",
+        "vendorURL": "https://www.avsimulation.fr",
+        "description": "SCANeR studio is a comprehensive software suite dedicated to automotive and transport simulation addressing both testing and driving for ADAS, Autonomous vehicle, HMI and headlight use cases",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "scFLOW",
+        "license": "commercial",
+        "url": "https://www.cradle-cfd.com/",
+        "vendor": "Sofware Cradle",
+        "vendorURL": "https://www.cradle-cfd.com/",
+        "description": "scFLOW is a thermo-fuild analysis system with polyhedral mesh",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Scilab/Xcos FMU wrapper",
+        "license": "commercial",
+        "url": "https://www.scilab.org/software/atoms/fmi-model-exchange-co-simulation",
+        "vendor": "ESI Group",
+        "vendorURL": "https://www.esi-group.com/",
+        "description": "FMI support for Scilab / Xcos a free and open source software for numerical computation",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "ESI.svg"
+    },
+    {
+        "name": "scSTREAM",
+        "license": "commercial",
+        "url": "https://www.cradle-cfd.com/",
+        "vendor": "Sofware Cradle",
+        "vendorURL": "https://www.cradle-cfd.com/",
+        "description": "scSTREAM is a thermo-fuild analysis system with structured mesh",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Silver",
+        "license": "commercial",
+        "url": "https://www.synopsys.com/verification/virtual-prototyping/virtual-ecu/silver.html",
+        "vendor": "Synopsys",
+        "vendorURL": "https://www.synopsys.com/",
+        "description": "Generation of virtual ECUs and virtual integration platform for Software in the Loop from Synopsys",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Synopsys.svg"
+    },
+    {
+        "name": "SIM-VICUS",
+        "license": "osi",
+        "url": "https://sim-vicus.de",
+        "vendor": "TU Dresden",
+        "vendorURL": "https://sim-vicus.de",
+        "description": "Building energy performance and district simulation tool",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Simcenter 3D Motion",
+        "license": "commercial",
+        "url": "https://www.plm.automation.siemens.com/global/en/products/simulation-test/motion-simulation.html",
+        "vendor": "Siemens",
+        "vendorURL": "https://www.siemens.com/",
+        "description": "Simcenter software combines system simulation, 3D CAE, and performance testing; Motion provides an accurate and robust 3D multi-body simulation model.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Siemens.svg"
+    },
+    {
+        "name": "Simcenter Amesim",
+        "license": "commercial",
+        "url": "https://www.plm.automation.siemens.com/global/en/products/simcenter/simcenter-amesim.html",
+        "vendor": "Siemens",
+        "vendorURL": "https://www.siemens.com/",
+        "description": "Integrated simulation platform for the analysis of multi-domain mechatronics systems by Siemens Digital Industries Software",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "Siemens.svg"
+    },
+    {
+        "name": "Simcenter FLOEFD",
+        "license": "commercial",
+        "url": "https://www.plm.automation.siemens.com/global/en/products/simcenter/floefd.html",
+        "vendor": "Siemens",
+        "vendorURL": "https://www.siemens.com/",
+        "description": "Simcenter FLOEFD is a CAD-embedded computational fluid dynamics solution",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Siemens.svg"
+    },
+    {
+        "name": "Simcenter Flomaster",
+        "license": "commercial",
+        "url": "https://www.plm.automation.siemens.com/global/en/products/simcenter/flomaster.html",
+        "vendor": "Siemens",
+        "vendorURL": "https://www.siemens.com/",
+        "description": " High capability 1D CFD tool for thermo-fluid simulation from Mentor Graphics",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ],
+        "logo": "Siemens.svg"
+    },
+    {
+        "name": "Simcenter STAR-CCM+",
+        "license": "commercial",
+        "url": "https://www.plm.automation.siemens.com/global/en/products/simcenter/STAR-CCM.html",
+        "vendor": "Siemens",
+        "vendorURL": "https://www.siemens.com/",
+        "description": "Simcenter STAR-CCM+ is the CFD-focused multiphysics engineering solution that uniquely integrates comprehensive physics with intelligent design exploration in a single CAD-to-solution environment.",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Siemens.svg"
+    },
+    {
+        "name": "SimGrid-FMI",
+        "license": "osi",
+        "url": "https://framagit.org/simgrid/simgrid-FMI",
+        "vendor": "SimGrid",
+        "vendorURL": "https://simgrid.org/",
+        "description": "SimGrid plugin to co-simulate distributed IT infrastructures and continuous multi-physical systems",
+        "features": [],
+        "platforms": [
+            "Linux"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "SIMIT",
+        "license": "commercial",
+        "url": "https://new.siemens.com/global/en/products/automation/industry-software/simit.html",
+        "vendor": "Siemens",
+        "vendorURL": "https://www.siemens.com/",
+        "description": "Simulation platform for virtual commissioning (SiL, HiL) and operator training of manufacturing and process plants",
+        "features": [],
+        "platforms": [],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "Siemens.svg"
+    },
+    {
+        "name": "Workbench (SimWB)",
+        "license": "commercial",
+        "url": "https://wiki.simwb.com/",
+        "vendor": "Simulation",
+        "vendorURL": "https://wiki.simwb.com/",
+        "description": "SimWB is an open, powerful framework to run SIL, HIL, and MIL simulations under Concurrents hard real-time RedHawk OS that runs on COTS hardware",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "SimulationX",
+        "license": "commercial",
+        "url": "https://www.simulationx.com/simulation-software/experts/fmi-simulation.html",
+        "vendor": "ESI Group",
+        "vendorURL": "https://www.esi-group.com/",
+        "description": "Multi-domain simulation tool for design, analysis and virtual prototyping of complex systems developed by ESI ITI GmbH",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "ESI.svg"
+    },
+    {
+        "name": "SIMPACK",
+        "license": "commercial",
+        "url": "https://www.3ds.com/products-services/simulia/products/simpack/",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "High-end multi-body simulation software from DASSAULT SYSTEMES",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "SIMPACK.png"
+    },
+    {
+        "name": "Simulix",
+        "license": "osi",
+        "url": "https://github.com/kvixen/Simulix",
+        "vendor": "@kvixen",
+        "vendorURL": "https://github.com/kvixen/",
+        "description": "FMU builder for Simulink models (based on Simulink Coder)",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "Squish GUI Tester",
+        "license": "commercial",
+        "url": "https://squish.froglogic.com",
+        "vendor": "froglogic",
+        "vendorURL": "https://www.froglogic.com/",
+        "description": "Squish is a GUI Test Automation Tool. As an FMU importer, Squish test scripts can access all variables exposed by a FMU and is responsible for driving the simulation process",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "Sulca",
+        "license": "commercial",
+        "url": "https://www.simantics.org/demonstration/sulca",
+        "vendor": "Simantics",
+        "vendorURL": "https://www.simantics.org/",
+        "description": "SULCA software is a tool for Ecodesign and for performing Life Cycle Assessments (LCA).",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "SystemModeler",
+        "license": "commercial",
+        "url": "https://www.wolfram.com/system-modeler",
+        "vendor": "Wolfram",
+        "vendorURL": "https://www.wolfram.com/",
+        "description": "Modelica environment from Wolfram Research",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "ME"
+        ],
+        "fmuImport": [
+            "ME"
+        ],
+        "logo": "Wolfram.svg"
+    },
+    {
+        "name": "TAITherm",
+        "license": "commercial",
+        "url": "https://www.thermoanalytics.com/taitherm",
+        "vendor": "ThermoanAlytics",
+        "vendorURL": "https://www.thermoanalytics.com/",
+        "description": "3D Thermal Simulation Software that can be coupled with CFD, FEA, and 1D tools",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "TLK Energy Apps",
+        "license": "commercial",
+        "url": "https://apps.tlk-energy.de",
+        "vendor": "TLK-Thermo",
+        "vendorURL": "https://www.tlk-thermo.com/",
+        "description": "Plattform to build web-based simulation apps",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "TLK-Thermo.svg"
+    },
+    {
+        "name": "TLK FMI Suite",
+        "license": "commercial",
+        "url": "https://www.tlk-thermo.com/",
+        "vendor": "TLK-Thermo",
+        "vendorURL": "https://www.tlk-thermo.com/",
+        "description": "TLK FMI Suite provides LabVIEW and Simulink blocks for FMU simulation",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "TLK-Thermo.svg"
+    },
+    {
+        "name": "TLK TISC Suite",
+        "license": "commercial",
+        "url": "https://www.tlk-thermo.de",
+        "vendor": "TLK-Thermo",
+        "vendorURL": "https://www.tlk-thermo.com/",
+        "description": "Co-simulation environment from TLK-Thermo",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "TLK-Thermo.svg"
+    },
+    {
+        "name": "TPT",
+        "license": "commercial",
+        "url": "https://piketec.com/",
+        "vendor": "PikeTec",
+        "vendorURL": "https://piketec.com/",
+        "description": "Test tool to test and verify embedded control software in all phases of software development",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "TRNSYS FMU Export Utility",
+        "license": "commercial",
+        "url": "https://sourceforge.net/projects/trnsys-fmu/",
+        "vendor": "Edmund Widl",
+        "vendorURL": "https://sourceforge.net/u/widle/profile/",
+        "description": "A stand-alone tool for exporting FMUs for Co-Simulation from TRNSYS models",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "TWT Co-Simulation Framework",
+        "license": "commercial",
+        "url": "https://twt-gmbh.de/en/produkte/",
+        "vendor": "TWT",
+        "vendorURL": "https://twt-gmbh.de/",
+        "description": "Communication layer tool to flexibly plug together models for performing a co-simulation; front-end for set-up, monitoring and post-processing included",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "U-TEST\u00ae",
+        "license": "commercial",
+        "url": "https://www.spherea.com/en/u-testr-integration-solution-0",
+        "vendor": "Spherea",
+        "vendorURL": "https://www.spherea.com/",
+        "description": "U-TEST\u00ae is a software platform that allows rapid prototyping / command and control applications / verification validation and integration benches enabling simulation of the tested system\u2019s operational environment",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "VALDYN",
+        "license": "commercial",
+        "url": "https://www.ricardo.com/en-GB/What-we-do/Software/Products/VALDYN/",
+        "vendor": "Ricardo",
+        "vendorURL": "https://ricardo.com/",
+        "description": "Multi-body dynamic and kinematic simulation for valvetrain, powertrain and transmission systems from Ricardo Software",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Ricardo.svg"
+    },
+    {
+        "name": "VenetDCP",
+        "license": "commercial",
+        "url": "https://www.toshiba-sol.co.jp/en/industry/venetdcp/index.htm",
+        "vendor": "Toshiba",
+        "vendorURL": "https://global.toshiba/",
+        "description": "VenetDCP is a distributed co-simulation platform  which enables to connect various models and tools over the internet and compose a cyberspace for integrated simulation test",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Toshiba.svg"
+    },
+    {
+        "name": "Virtual Engine",
+        "license": "commercial",
+        "url": "https://virtualengine.fev.com/",
+        "vendor": "FEV",
+        "vendorURL": "https://www.fev-sts.com/",
+        "description": "Multibody dynamics simulation software for internal combustion engines, transmissions and their components from FEV",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "FEV.svg"
+    },
+    {
+        "name": "VOLTA",
+        "license": "commercial",
+        "url": "https://www.esteco.com/volta",
+        "vendor": "ESTECO",
+        "vendorURL": "https://www.esteco.com/",
+        "description": "VOLTA is a web platform for multidisciplinary business process optimization and simulation data management",
+        "features": [],
+        "platforms": [
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    },
+    {
+        "name": "WAVE-RT",
+        "license": "commercial",
+        "url": "https://www.ricardo.com/en-GB/What-we-do/Software/Products/WAVE-RT/",
+        "vendor": "Ricardo",
+        "vendorURL": "https://ricardo.com/",
+        "description": "Real-time, crank-angle resolved engine simulation tool for testing new engine management systems in SiL, HiL, and rapid-prototyping from Ricardo Software",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "Ricardo.svg"
+    },
+    {
+        "name": "WinMOD",
+        "license": "commercial",
+        "url": "https://www.winmod.de/english/products/co-simulation/",
+        "vendor": "WinMOD",
+        "vendorURL": "https://www.winmod.de/",
+        "description": "WinMOD CoSimulations extend the capabilities of WinMOD Systems by combining them with simulation tools from other manufacturers.",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ]
+    },
+    {
+        "name": "XFlow",
+        "license": "commercial",
+        "url": "https://www.xflowcfd.com/",
+        "vendor": "Dassault Syst\u00e8mes",
+        "vendorURL": "https://3ds.com/",
+        "description": "Computational Fluid Dynamics (CFD) code which uses a particle-based kinetic solver based on the Lattice-Boltzmann Method, thus avoids the meshing process and allows complex fluid-structure interaction including through FMI standard co-simulation",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": [],
+        "logo": "3DS.svg"
+    },
+    {
+        "name": "xMOD",
+        "license": "commercial",
+        "url": "https://xmod.fev.com/",
+        "vendor": "FEV",
+        "vendorURL": "https://www.fev-sts.com/",
+        "description": "Heterogeneous model integration environment & virtual instrumentation and experimentation laboratory from IFPEN distributed by D2T",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "1.0",
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
+        "fmuImport": [
+            "CS",
+            "ME"
+        ],
+        "logo": "FEV.svg"
+    },
+    {
+        "name": "Score",
+        "license": "commercial",
+        "url": "https://www.xrg-simulation.de/en/products/applications/score",
+        "vendor": "XRG",
+        "vendorURL": "https://www.xrg-simulation.de/en/products/applications/score",
+        "description": "Excel COM add-in for FMU multi-physics simulations and Dymola remote control",
+        "features": [],
+        "platforms": [
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [
+            "CS"
+        ],
+        "fmuImport": [
+            "CS"
+        ],
+        "logo": "XRG.png"
+    },
+    {
+        "name": "YAKINDU Statechart Tools",
+        "license": "commercial",
+        "url": "https://www.itemis.com/en/yakindu/state-machine/documentation/user-guide#lab_projects_fmu_codegen",
+        "vendor": "itemis",
+        "vendorURL": "https://www.itemis.com/",
+        "description": "YAKINDU Statechart Tools supports the development of systems based on the concept of statecharts. It supports visual editing, interactive validation, and simulation of statecharts. Code generators translate the statecharts to state machine implementations for different target languages and platforms.",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "fmiVersions": [
+            "2.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
+    }
+]
