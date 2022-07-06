@@ -569,7 +569,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             'features': features,
             'platforms': platforms,
             'fmiVersions': fmi_versions,
-            'fmuExport': fmu_import,
+            'fmuExport': fmu_export,
             'fmuImport': fmu_import,
         }
 
