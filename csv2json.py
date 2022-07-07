@@ -555,6 +555,16 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
         elif name == 'YAKINDU Statechart Tools':
             vendor = 'itemis'
             vendorURL = 'https://www.itemis.com/'
+        elif name == 'fe.screen-sim':
+            vendor = 'F.EE'
+            vendorURL = 'https://www.fescreen-sim.de/'
+        elif name == 'Simulation Workbench (SimWB)':
+            name = 'SIMulation Workbench'
+            vendor = 'Concurrent'
+            vendorURL = 'https://concurrent-rt.com/'
+        elif name == 'Xentara':
+            vendor = 'embedded ocean'
+            vendorURL = 'https://www.xentara.io/'
         elif len(s) > 1:
             vendor = s[0]
             name = ' '.join(s[1:])
