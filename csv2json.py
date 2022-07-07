@@ -77,7 +77,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = "https://www.fortiss.org/en/"
         elif name == 'AUTOSAR Builder':
             name = name
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'Axisuite':
@@ -102,12 +102,12 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://www.carsim.com/'
         elif name == 'CATIA':
             name = name
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'ControlBuild':
             name = name
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'CosiMate':
@@ -133,19 +133,19 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
         elif name == 'DAFUL':
             name = 'Motion'
             url = 'https://www.ansys.com/ko-kr/products/structures/ansys-motion'
-            logo = 'Ansys.svg'
+            # logo = 'Ansys.svg'
             vendor = 'Ansys'
             vendorURL = 'https://www.ansys.com/'
         elif name == 'DS - FMU Import into Simulink':
             name = 'FMI Kit for Simulink'
             url = 'https://github.com/CATIA-Systems/FMIKit-Simulink'
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'Dymola':
             name = name
             version = '2023'
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'DYNA4':
@@ -170,7 +170,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://www.empresariosagrupados.es/'
         elif name == 'ECU-TEST':
             name = name
-            logo = 'TraceTronic.png'
+            # logo = 'TraceTronic.png'
             vendor = 'TraceTronic'
             vendorURL = 'https://www.tracetronic.com/'
         elif name == 'EMTP-RV':
@@ -187,7 +187,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = url
         elif name == 'FMI Add-in for Excel':
             name = name
-            logo = 'Modelon.png'
+            # logo = 'Modelon.png'
             vendor = 'Modelon'
             vendorURL = 'https://www.modelon.com/'
         elif name == 'FMI add-on for NI VeriStand':
@@ -196,7 +196,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://www.dofware.com/'
         elif name == 'FMI Bench':
             name = name
-            logo = 'PMSF.png'
+            # logo = 'PMSF.png'
             vendor = 'PMSF IT Consulting'
             vendorURL = 'https://pmsf.eu/'
         elif name == 'FMI Blockset for Simulink':
@@ -205,22 +205,22 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://www.claytex.com/'
         elif name == 'FMI Composer':
             name = name
-            logo = 'Modelon.png'
+            # logo = 'Modelon.png'
             vendor = 'Modelon'
             vendorURL = 'https://www.modelon.com/'
         elif name == 'FMI Library':
             name = name
-            logo = 'Modelon.png'
+            # logo = 'Modelon.png'
             vendor = 'Modelon'
             vendorURL = 'https://www.modelon.com/'
         elif name == 'FMI Target for Simulink Coder':
             name = name
-            logo = 'ESI.svg'
+            # logo = 'ESI.svg'
             vendor = 'ESI Group'
             vendorURL = 'https://www.esi-group.com/'
         elif name == 'FMI Toolbox for MATLAB/Simulink':
             name = name
-            logo = 'Modelon.png'
+            # logo = 'Modelon.png'
             vendor = 'Modelon'
             vendorURL = 'https://www.modelon.com/'
         elif name == 'FMI.jl':
@@ -237,7 +237,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://www.ntnu.edu/ihb'
         elif name == 'FMPy':
             name = name
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'FMU-proxy':
@@ -305,7 +305,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'http://www.lstc.com/'
         elif name == 'MapleSim':
             name = name
-            logo = 'Maplesoft.svg'
+            # logo = 'Maplesoft.svg'
             vendor = 'Maplesoft'
             vendorURL = 'https://www.maplesoft.com/'
         elif name == 'MasterSim':
@@ -314,7 +314,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://bauklimatik-dresden.de/'
         elif name == 'MATLAB® Simulink®':
             name = name
-            logo = 'MathWorks.svg'
+            # logo = 'MathWorks.svg'
             vendor = 'MathWorks'
             vendorURL = 'https://www.mathworks.com/'
         elif name == 'MESSINA':
@@ -358,13 +358,13 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://openmodelica.org/'
         elif name == 'OPTIMICA Compiler Toolkit':
             name = name
-            logo = 'Modelon.png'
+            # logo = 'Modelon.png'
             vendor = 'Modelon'
             vendorURL = 'https://www.modelon.com/'
         elif name == 'optiSLang':
             name = name
             url = 'https://www.ansys.com/products/connect/ansys-optislang'
-            logo = 'Ansys.svg'
+            # logo = 'Ansys.svg'
             vendor = 'Ansys'
             vendorURL = 'https://www.ansys.com/'
         elif name == 'Overture':
@@ -397,7 +397,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendor = 'The Ptolemy Project'
             vendorURL = 'https://ptolemy.berkeley.edu/'
         elif name == 'PyFMI':
-            logo = 'Modelon.png'
+            # logo = 'Modelon.png'
             vendor = 'Modelon'
             vendorURL = 'https://www.modelon.com/'
         elif name == 'PySimulator':
@@ -428,7 +428,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendor = 'Sofware Cradle'
             vendorURL = 'https://www.cradle-cfd.com/'
         elif name == 'Scilab/Xcos FMU wrapper':
-            logo = 'ESI.svg'
+            # logo = 'ESI.svg'
             vendor = 'ESI Group'
             vendorURL = 'https://www.esi-group.com/'
         elif name == 'scSTREAM':
@@ -440,23 +440,23 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
         elif name == 'SIM-VICUS':
             vendor = 'TU Dresden'
         elif name == 'Simcenter 3D Motion':
-            logo = 'Siemens.svg'
+            # logo = 'Siemens.svg'
             vendor = 'Siemens'
             vendorURL = 'https://www.siemens.com/'
         elif name == 'Simcenter Amesim':
-            logo = 'Siemens.svg'
+            # logo = 'Siemens.svg'
             vendor = 'Siemens'
             vendorURL = 'https://www.siemens.com/'
         elif name == 'Simcenter FLOEFD':
-            logo = 'Siemens.svg'
+            # logo = 'Siemens.svg'
             vendor = 'Siemens'
             vendorURL = 'https://www.siemens.com/'
         elif name == 'Simcenter Flomaster':
-            logo = 'Siemens.svg'
+            # logo = 'Siemens.svg'
             vendor = 'Siemens'
             vendorURL = 'https://www.siemens.com/'
         elif name == 'Simcenter STAR-CCM+':
-            logo = 'Siemens.svg'
+            # logo = 'Siemens.svg'
             vendor = 'Siemens'
             vendorURL = 'https://www.siemens.com/'
         elif name == 'SimGrid-FMI':
@@ -464,19 +464,19 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://simgrid.org/'
         elif name == 'SIMIT Simulation Platform':
             name = 'SIMIT'
-            logo = 'Siemens.svg'
+            # logo = 'Siemens.svg'
             vendor = 'Siemens'
             vendorURL = 'https://www.siemens.com/'
         elif name == 'SimWB':
             vendor = 'Concurrent Real-Time'
             vendorURL = 'https://concurrent-rt.com/'
         elif name == 'SimulationX':
-            logo = 'ESI.svg'
+            # logo = 'ESI.svg'
             vendor = 'ESI Group'
             vendorURL = 'https://www.esi-group.com/'
         elif name == 'SIMULIA Simpack':
             name = 'SIMPACK'
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'Simulix':
@@ -490,7 +490,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://www.simantics.org/'
         elif name == 'SystemModeler':
             vendor = 'Wolfram'
-            logo = 'Wolfram.svg'
+            # logo = 'Wolfram.svg'
             vendorURL = 'https://www.wolfram.com/'
         elif name == 'TAITherm':
             vendor = 'ThermoanAlytics'
@@ -523,7 +523,7 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendorURL = 'https://ricardo.com/'
         elif name == 'VenetDCP':
             vendor = 'Toshiba'
-            logo = 'Toshiba.svg'
+            # logo = 'Toshiba.svg'
             vendorURL = 'https://global.toshiba/'
         elif name == 'Virtual Engine':
             vendor = 'FEV'
@@ -539,13 +539,13 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
             vendor = 'WinMOD'
             vendorURL = 'https://www.winmod.de/'
         elif name == 'XFlow':
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'Cameo Simulation Toolkit (MagicDraw plugin)':
             name = 'Cameo Systems Modeler'
             url = 'https://www.3ds.com/products-services/catia/products/no-magic/cameo-systems-modeler/'
-            logo = '3DS.svg'
+            # logo = '3DS.svg'
             vendor = 'Dassault Systèmes'
             vendorURL = "https://3ds.com/"
         elif name == 'xMOD':
@@ -574,75 +574,75 @@ with open('/Users/tors10/Development/fmi-standard.org/_data/tools.csv', newline=
         }
 
         if tool['vendor'] in ['ANSYS', 'Ansys']:
-            tool['logo'] = 'Ansys.svg'
+            # tool['logo'] = 'Ansys.svg'
             tool['vendor'] = 'Ansys'
             tool['vendorURL'] = 'https://www.ansys.com/'
 
         if tool['vendor'] == 'Altair':
-            tool['logo'] = 'Altair.svg'
+            # tool['logo'] = 'Altair.svg'
             tool['vendorURL'] = 'https://www.altair.com/'
 
-        if tool['vendor'] == 'Ricardo':
-            tool['logo'] = 'Ricardo.svg'
+        # if tool['vendor'] == 'Ricardo':
+        #     tool['logo'] = 'Ricardo.svg'
 
         if tool['vendor'] == 'AVL':
-            tool['logo'] = 'AVL.svg'
+            # tool['logo'] = 'AVL.svg'
             tool['vendorURL'] = 'https://avl.com/'
 
-        if tool['vendor'] == 'IBM':
-            tool['logo'] = 'IBM.svg'
-
-        if tool['vendor'] == 'Modelon':
-            tool['logo'] = 'Modelon.png'
-
-        if tool['vendor'] == 'XRG':
-            tool['logo'] = 'XRG.png'
-
-        if tool['vendor'] == 'FEV':
-            tool['logo'] = 'FEV.svg'
-
-        if tool['vendor'] == 'IPG Automotive':
-            tool['logo'] = 'IPG.jpeg'
-
-        if tool['vendor'] == 'Synopsys':
-            tool['logo'] = 'Synopsys.svg'
-
-        if tool['vendor'] == 'dSPACE':
-            tool['logo'] = 'dSPACE.svg'
-
-        if tool['vendor'] == 'MSC Software':
-            tool['logo'] = 'MSC.svg'
-
-        if tool['vendor'] == 'Vector':
-            tool['logo'] = 'Vector.svg'
-
-        if tool['vendor'] == 'TLK-Thermo':
-            tool['logo'] = 'TLK-Thermo.svg'
-
-        if tool['vendor'] == 'Magna':
-            tool['logo'] = 'Magna.svg'
-
-        if tool['vendor'] == 'ETAS':
-            tool['logo'] = 'ETAS.svg'
-            tool['vendorURL'] = 'https://www.etas.com/'
-
-        if tool['name'] == 'SIMPACK':
-            logo = 'SIMPACK.png'
-
-        if tool['name'] == 'Dymola':
-            logo = 'Dymola.png'
-
-        if tool['name'] == 'OMSimulator':
-            logo = 'OpenModelica.png'
-
-        if tool['name'] == 'OpenModelica':
-            logo = 'OpenModelica.png'
-
-        if version is not None:
-            tool['version'] = version
-
-        if logo is not None:
-            tool['logo'] = logo
+        # if tool['vendor'] == 'IBM':
+        #     tool['logo'] = 'IBM.svg'
+        #
+        # if tool['vendor'] == 'Modelon':
+        #     tool['logo'] = 'Modelon.png'
+        #
+        # if tool['vendor'] == 'XRG':
+        #     tool['logo'] = 'XRG.png'
+        #
+        # if tool['vendor'] == 'FEV':
+        #     tool['logo'] = 'FEV.svg'
+        #
+        # if tool['vendor'] == 'IPG Automotive':
+        #     tool['logo'] = 'IPG.jpeg'
+        #
+        # if tool['vendor'] == 'Synopsys':
+        #     tool['logo'] = 'Synopsys.svg'
+        #
+        # if tool['vendor'] == 'dSPACE':
+        #     tool['logo'] = 'dSPACE.svg'
+        #
+        # if tool['vendor'] == 'MSC Software':
+        #     tool['logo'] = 'MSC.svg'
+        #
+        # if tool['vendor'] == 'Vector':
+        #     tool['logo'] = 'Vector.svg'
+        #
+        # if tool['vendor'] == 'TLK-Thermo':
+        #     tool['logo'] = 'TLK-Thermo.svg'
+        #
+        # if tool['vendor'] == 'Magna':
+        #     tool['logo'] = 'Magna.svg'
+        #
+        # if tool['vendor'] == 'ETAS':
+        #     tool['logo'] = 'ETAS.svg'
+        #     tool['vendorURL'] = 'https://www.etas.com/'
+        #
+        # if tool['name'] == 'SIMPACK':
+        #     logo = 'SIMPACK.png'
+        #
+        # if tool['name'] == 'Dymola':
+        #     logo = 'Dymola.png'
+        #
+        # if tool['name'] == 'OMSimulator':
+        #     logo = 'OpenModelica.png'
+        #
+        # if tool['name'] == 'OpenModelica':
+        #     logo = 'OpenModelica.png'
+        #
+        # if version is not None:
+        #     tool['version'] = version
+        #
+        # if logo is not None:
+        #     tool['logo'] = logo
 
         tools.append(tool)
 
