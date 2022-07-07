@@ -331,10 +331,13 @@
         "url": "https://www.3ds.com/products-services/catia/products/autosarbuilder/",
         "vendor": "Dassault Syst\u00e8mes",
         "vendorURL": "https://3ds.com/",
-        "description": "AUTOSAR product from Dassault Syst\u00e8mes",
+        "description": "AUTOSAR Builder is a powerful, flexible, and open AUTOSAR authoring and test solution enabling modeling, test, and validation of in-vehicle embedded systems. It fully supports the AUTOSAR standard, both Classic and Adaptive, in one environment.",
         "features": [],
         "platforms": [
             "Windows"
+        ],
+        "interfaces": [
+            "GUI"
         ],
         "fmiVersions": [
             "1.0",
@@ -517,12 +520,16 @@
         "name": "Cameo Systems Modeler",
         "license": "commercial",
         "url": "https://www.3ds.com/products-services/catia/products/no-magic/cameo-systems-modeler/",
+        "logo": "cameo.png",
         "vendor": "Dassault Syst\u00e8mes",
         "vendorURL": "https://3ds.com/",
-        "description": "FMUs can be imported, represented, connected and co-simulated in SysML models",
+        "description": "Cameo Systems Modeler™ is an industry leading cross-platform collaborative Model-Based Systems Engineering (MBSE) environment, which provides smart, robust, and intuitive tools to define, track, and visualize all aspects of systems in the most standard-compliant SysML models and diagrams.",
         "features": [],
         "platforms": [
             "Windows"
+        ],
+        "interfaces": [
+            "GUI"
         ],
         "fmiVersions": [
             "1.0"
@@ -600,12 +607,16 @@
         "name": "CATIA",
         "license": "commercial",
         "url": "https://www.3ds.com/products-services/catia/",
+        "logo": "catia.svg",
         "vendor": "Dassault Syst\u00e8mes",
         "vendorURL": "https://3ds.com/",
-        "description": "Environment for Product Design and Innovation, including systems engineering tools based on Modelica, by Dassault Syst&egrave;mes",
+        "description": "CATIA is a multi-platform software suite for computer-aided design, computer-aided manufacturing, computer-aided engineering, 3D modeling and product lifecycle management.",
         "features": [],
         "platforms": [
             "Windows"
+        ],
+        "interfaces": [
+            "GUI"
         ],
         "fmiVersions": [
             "1.0",
@@ -624,13 +635,17 @@
         "name": "ControlBuild",
         "license": "commercial",
         "url": "https://www.3ds.com/products-services/catia/products/controlbuild/",
+        "logo": "ControlBuild.jpg",
         "vendor": "Dassault Syst\u00e8mes",
         "vendorURL": "https://3ds.com/",
-        "description": "Environment for IEC 61131-3 control applications from Dassault Syst\u00e8mes",
+        "description": "ControlBuild is an innovative environment for designing and validating distributed control and monitoring systems. Based on a model-driven approach and supported by a structured set of libraries, ControlBuild is used to efficiently model, simulate, test, validate, and deploy IEC 61131-3 control applications.",
         "features": [],
         "platforms": [
             "Linux",
             "Windows"
+        ],
+        "interfaces": [
+            "GUI"
         ],
         "fmiVersions": [
             "1.0",
@@ -830,20 +845,32 @@
     },
     {
         "name": "FMI Kit for Simulink",
-        "license": "commercial",
+        "license": "osi",
         "url": "https://github.com/CATIA-Systems/FMIKit-Simulink",
-        "vendor": "Dassault Syst\u00e8mes",
+        "logo": "Simulink.png",
+        "vendor": "Dassault Systèmes",
         "vendorURL": "https://3ds.com/",
-        "description": "FMI Kit for Simulink  provided by Dassault Syst&egrave;mes - Simulink block for import of FMUs into Simulink",
+        "description": "FMI Kit for Simulink is a toolbox for MATLAB/Simulink provides an S-function block to import FMUs and two Simulink Coder targets to export Co-Simulation and Model Exchange FMUs.",
         "features": [],
         "platforms": [
-            "Windows"
+            "Windows",
+            "Linux",
+            "macOS"
+        ],
+        "interfaces": [
+            "GUI",
+            "CLI",
+            "library"
         ],
         "fmiVersions": [
             "1.0",
-            "2.0"
+            "2.0",
+            "3.0"
         ],
-        "fmuExport": [],
+        "fmuExport": [
+            "CS",
+            "ME"
+        ],
         "fmuImport": [
             "CS",
             "ME"
@@ -968,13 +995,18 @@
         "name": "Dymola",
         "license": "commercial",
         "url": "https://www.3ds.com/products-services/catia/capabilities/modelica-systems-simulation-info/dymola",
+        "logo": "Dymola.png",
         "vendor": "Dassault Syst\u00e8mes",
         "vendorURL": "https://3ds.com/",
-        "description": "Modelica environment from Dassault Syst\u00e8mes",
+        "description": "Dymola, Dynamic Modeling Laboratory, is a complete tool for modeling and simulation of integrated and complex systems for use within automotive, aerospace, robotics, process and other applications.",
         "features": [],
         "platforms": [
             "Linux",
             "Windows"
+        ],
+        "interfaces": [
+            "GUI",
+            "CLI"
         ],
         "fmiVersions": [
             "1.0",
@@ -1642,18 +1674,25 @@
         "name": "FMPy",
         "license": "osi",
         "url": "https://github.com/CATIA-Systems/FMPy",
-        "vendor": "Dassault Syst\u00e8mes",
+        "logo": "Python.svg",
+        "vendor": "Dassault Systèmes",
         "vendorURL": "https://3ds.com/",
-        "description": "A Python library to simulate FMUs",
+        "description": "FMPy is a free Python library to inspect, compile and simulate FMUs with a rich graphical user interface, flexible API, and a command line interface.",
         "features": [],
         "platforms": [
             "macOS",
             "Linux",
             "Windows"
         ],
+        "interfaces": [
+            "GUI",
+            "CLI",
+            "library"
+        ],
         "fmiVersions": [
             "1.0",
-            "2.0"
+            "2.0",
+            "3.0"
         ],
         "fmuExport": [],
         "fmuImport": [
@@ -3097,13 +3136,17 @@
         "name": "SIMPACK",
         "license": "commercial",
         "url": "https://www.3ds.com/products-services/simulia/products/simpack/",
+        "logo": "SIMPACK.png",
         "vendor": "Dassault Syst\u00e8mes",
         "vendorURL": "https://3ds.com/",
-        "description": "High-end multi-body simulation software from DASSAULT SYSTEMES",
+        "description": "Simpack is a general multibody system simulation (MBS) software enabling analysts and engineers to simulate the non-linear motion of any mechanical or mechatronic system. It enables engineers to generate and solve virtual 3D models in order to predict and visualize dynamic motion, coupling forces and stresses.",
         "features": [],
         "platforms": [
             "Linux",
             "Windows"
+        ],
+        "interfaces": [
+            "GUI"
         ],
         "fmiVersions": [
             "1.0",
@@ -3505,13 +3548,17 @@
     {
         "name": "XFlow",
         "license": "commercial",
-        "url": "https://www.xflowcfd.com/",
+        "url": "https://www.3ds.com/products-services/simulia/products/xflow/",
+        "logo": "XFlow.webp",
         "vendor": "Dassault Syst\u00e8mes",
         "vendorURL": "https://3ds.com/",
-        "description": "Computational Fluid Dynamics (CFD) code which uses a particle-based kinetic solver based on the Lattice-Boltzmann Method, thus avoids the meshing process and allows complex fluid-structure interaction including through FMI standard co-simulation",
+        "description": "XFlow is a next generation CFD software system that uses a proprietary state-of-the-art Lattice Boltzmann technology, and is specifically designed for companies who require accurate feedback on flow simulation, transient aerodynamics, water management and fluid-structure interaction.",
         "features": [],
         "platforms": [
             "Windows"
+        ],
+        "interfaces": [
+            "GUI"
         ],
         "fmiVersions": [
             "1.0"
