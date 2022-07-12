@@ -1475,13 +1475,18 @@
         "name": "FMI Bench",
         "license": "commercial",
         "url": "https://pmsf.eu/products/fmibench/",
+        "logo": "PMSF.png",
         "vendor": "PMSF IT Consulting",
         "vendorURL": "https://pmsf.eu/",
-        "description": "Workbench for inspection, customization and pre-integration of FMUs including parallelization and stand-alone simulation generation from PMSF",
+        "description": "FMI Bench is a workbench for the inspection, customization and integration of FMUs, based on FMI and SSP standards. It includes encryption, distribution, parallelization and stand-alone simulation generation.",
         "features": [],
         "platforms": [
             "Linux",
             "Windows"
+        ],
+        "interfaces": [
+            "GUI",
+            "CLI"
         ],
         "fmiVersions": [
             "1.0",
