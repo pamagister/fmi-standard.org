@@ -76,21 +76,21 @@ Please respect the rules below when editing the file.
 
 ### Format
 
-| Column         | Description                                     | Example / valid values
-|----------------|-------------------------------------------------|-----------------------
-| name           | The tool name that appears in the tools list    | `"Example Sim"`
+| Column         | Description                                                             | Example / valid values
+|----------------|-------------------------------------------------------------------------|-----------------------
+| name           | The tool name that appears in the tools list                            | `"Example Sim"`
 | license        | License (commercial or [OSI approved](https://opensource.org/licenses)) | `"commercial"`, `"osi"`
-| url            | Link to the tool's homepage (optional)          | `"https://example.com/example-sim/"`
-| logo           | filename of the tool's logo                     | `"example-sim.svg"`
-| vendor         | Name of the tool vendor                         | `"Example Company"`
-| vendorUrl      | Link to the vendor's homepage                   | `"https://example.com/"`
-| description    | A [description](#tool-description) of the tool  | `"Run simulations in the cloud in real time"`
-| features       | Reserved for future use                         | `[]`
-| platforms      | Supported platforms                             | `["macOS", "Linux", "Windows"]`
-| interfaces     | Supported interfaces                            | `["GUI", "CLI", "library"]`
-| fmiVersions    | Supported FMI versions                          | `["1.0", "2.0", "3.0"]`
-| fmuExport      | Supported interface types for export            | `["CS", "ME", "SE"]`
-| fmuImport      | Supported interface types for import            | `["CS", "ME", "SE"]`
+| url            | Link to the tool's homepage                                             | `"https://example.com/example-sim/"`
+| logo           | filename of the tool's logo                                             | `"example-sim.svg"`
+| vendor         | Name of the tool vendor                                                 | `"Example Company"`
+| vendorUrl      | Link to the vendor's homepage                                           | `"https://example.com/"`
+| description    | A [description](#tool-description) of the tool                          | `"Run simulations in the cloud in real time"`
+| features       | Reserved for future use                                                 | `[]`
+| platforms      | Supported platforms                                                     | `["macOS", "Linux", "Windows"]`
+| interfaces     | Supported interfaces                                                    | `["GUI", "CLI", "library"]`
+| fmiVersions    | Supported FMI versions                                                  | `["1.0", "2.0", "3.0"]`
+| fmuExport      | Supported interface types for FMU export                                | `["CS", "ME", "SE"]`
+| fmuImport      | Supported interface types for FMU import                                | `["CS", "ME", "SE"]`
 
 Example:
 
@@ -125,6 +125,9 @@ Example:
     ]
 }
 ```
+
+The optional logo must be added to `/assets/images` as a PNG or SVG.
+By submitting a logo the committer agrees that the logo is dispayed on the tools page.
 
 ### Tool Description
 
