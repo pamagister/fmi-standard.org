@@ -3639,5 +3639,29 @@
             "CS"
         ],
         "fmuImport": []
+    },
+    {
+        "name": "VDMCheck",
+        "license": "GPL",
+        "url": "https://github.com/INTO-CPS-Association/FMI-VDM-Model/releases",
+        "vendor": "Aarhus University",
+        "vendorURL": "https://ece.au.dk/en/",
+        "description": "VDMCheck verifies the XML configuration of FMUs using a formal VDM-SL model",
+        "features": [],
+        "platforms": [
+            "macOS",
+            "Linux",
+            "Windows"
+        ],
+        "interfaces": [
+            "CLI"
+        ],
+        "fmiVersions": [
+            "2.0",
+            "3.0"
+        ],
+        "fmuExport": [],
+        "fmuImport": []
     }
+
 ]
