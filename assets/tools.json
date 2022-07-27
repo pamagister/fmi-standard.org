@@ -129,12 +129,13 @@
         "fmuImport": []
     },
     {
-        "name": "Activate",
+        "name": "Altair Activate",
         "license": "commercial",
-        "url": "https://solidthinking.com/product/activate",
+        "url": "https://www.altair.com/activate",
+        "logo": "Activate.png",
         "vendor": "Altair",
         "vendorURL": "https://www.altair.com/",
-        "description": "Software environment for modeling, simulation and analysis of multi-disciplinary systems from Altair",
+        "description": "Software environment for modeling, simulation and analysis of multi-disciplinary systems",
         "features": [],
         "platforms": [
             "Linux",
@@ -142,7 +143,8 @@
         ],
         "fmiVersions": [
             "1.0",
-            "2.0"
+            "2.0",
+            "3.0"
         ],
         "fmuExport": [
             "CS",
@@ -154,10 +156,11 @@
         ]
     },
     {
-        "name": "MotionSolve",
+        "name": "Altair MotionSolve",
         "license": "commercial",
         "url": "https://www.altair.com/motionsolve/",
         "vendor": "Altair",
+        "logo": "MotionSolve.png",
         "vendorURL": "https://www.altair.com/",
         "description": "MotionSolve is a solver that performs 3D multi-body system simulations to predict the dynamic response and optimize the performance of products that move.",
         "features": [],
@@ -177,9 +180,10 @@
         ]
     },
     {
-        "name": "MotionView",
+        "name": "Altair MotionView",
         "license": "commercial",
         "url": "https://www.altair.com/motionsolve/motionview/",
+        "logo": "MotionView.png",
         "vendor": "Altair",
         "vendorURL": "https://www.altair.com/",
         "description": "MotionView is a graphical environment for building multibody system models and for visualizing motion simulation results using animations and plots.",
